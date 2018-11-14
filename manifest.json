@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Simply Inbox",
+  "version": "0.1.0",
+  "description": "GMail interface simplification in the style of Inbox.",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://mail.google.com/mail*"]
+  }]
+ 
+}

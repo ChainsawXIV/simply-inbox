@@ -1,0 +1,106 @@
+
+/* Compose button position */
+.aic{
+	position:fixed;
+	bottom:1em;
+	right:2em;
+}
+
+/* Compose button size and shape */
+.T-I.J-J5-Ji.T-I-KE.L3{
+	width:2em;
+	height:4em;
+	padding:0em;
+	border-radius:2em;
+}
+
+/* Side gadget bar removal */
+.nH.bAw.nn{
+	display:none;
+}
+
+/* Bottom noise text removal */
+.aeG{
+	display:none;
+}
+
+/* Star button removal */
+.zA>td.apU.xY{
+	display:none;
+}
+
+/* Important button removal */
+.zA>td.WA.xY{
+	display:none;
+}
+
+/* Starred folder removal */
+.TN.bzz.aHS-bnw{
+	display:none;
+}
+
+/* Important folder removal */
+.TN.bzz.aHS-bns{
+	display:none;
+}
+
+/* Categories folder removal */
+.byl.aJZ.a0L{
+	display:none;
+}
+
+/* Contacts / chat footer removal */
+.J-KU-Jg.J-KU-Jg-Zc.aj5{
+	display:none;
+}
+
+/* Inline mark unread/read removal */
+.bqX.brs, .bqX.brr{
+	display:none;
+}
+
+/* Right margin setting / width control */
+.nH.bkK.nn{
+	margin-right:7em;
+	padding-top:2em;
+}
+
+/* Top tool bar contents reduction */
+.Cq.aqL{
+	display:none;
+}
+
+/* Left navigation positioning */
+.ajl.aib.aZ6{
+	padding-top:2.2em;
+}
+
+/* Page navigation and settings position */
+.aeH{
+	position:fixed;
+	bottom:1.8em;
+	right:5em;
+	z-index:1000;
+}
+
+/* Left navigation row heights */
+.TO .TN{
+	height:3em;
+}
+
+/* Left navigation text size */
+.TO .TN .nU a, .TO .TN .nU a:hover{
+	font-size:130% !important;
+	position:relative;
+	top:0.05em;
+}
+
+/* Left navigation hover shading */
+.TO.nZ, .TO.NQ{
+	background-color:transparent !important;
+}
+
+/* Page navigation underline removal */
+.G-atb::before{
+	box-shadow:none !important;
+}
