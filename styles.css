@@ -2,8 +2,14 @@
 /* Compose button position */
 .aic{
 	position:fixed;
-	bottom:1em;
-	right:2em;
+	bottom:2em;
+	right:2.5em;
+	width:5em;
+}
+
+/* Compose button text removal */
+.T-I.J-J5-Ji.T-I-KE.L3{
+	color:transparent;
 }
 
 /* Compose button size and shape */
@@ -78,9 +84,9 @@
 /* Page navigation and settings position */
 .aeH{
 	position:fixed;
-	bottom:1.8em;
-	right:5em;
-	z-index:1000;
+	bottom:2.7em;
+	right:6em;
+	z-index:3;
 }
 
 /* Left navigation row heights */
